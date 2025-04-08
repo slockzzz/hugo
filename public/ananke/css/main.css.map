@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/fourd/OneDrive/Documents/hugo/my-hugo-site",
+	"sourceRoot": "C:/hugo/my-hugo-site",
 	"sources": [
 		"ananke/css/main.css"
 	],
